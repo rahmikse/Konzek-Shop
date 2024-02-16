@@ -31,7 +31,7 @@ const Product = () => {
     i18n.changeLanguage(detectedLng);
 
     getProduct();
-  }, [id]);
+  }, [id.id]);
 
   const Loading = () => {
     return (
