@@ -1,33 +1,46 @@
-Konzek-Shop
+# Konzek Shop
 
 Konzek-Shop, React.js, Redux-toolkit ve react-i18next kullanılarak geliştirilmiş bir e-ticaret web sitesidir. Bu proje, online satış yapmak isteyen girişimciler ve küçük işletmeler için idealdir.
 
-Özellikler:
-Ürün kataloğu yönetimi
-Gelişmiş filtreleme
-Sepet yönetimi
+## Demo
 
-Kurulum:
+https://ecommerce-konzek-app.netlify.app/
+
+## Kurulum
+
 Projeyi GitHub'dan klonlayın:
+
+```
 git clone https://github.com/rahmikse/Konzek-Shop.git
+```
+
 Projenin klasörüne gidin:
-cd Konzek-Shop
+
+```
+cd konzek-shop
+```
+
 Node.js ve npm'yi bilgisayarınıza kurun.
 
 Projenin bağımlılıklarını kurmak için aşağıdaki komutu çalıştırın:
-npm install
 
-Veritabanı kurulumu için gerekli adımları takip edin.
-URL: https://fakestoreapi.com/docs
+```
+  npm install
+```
 
-Uygulamayı başlatmak için aşağıdaki komutu çalıştırın:
-npm start
+## API Reference
 
-Kullanım:
-Uygulamayı tarayıcınızda açın: http://localhost:3000
-Ürünleri göz atın ve sepetinize ekleyin.
-Sepetinize gidin ve sepetinizi yönetin.
-Kullanıcı hesabı oluşturun ve siparişlerinizi takip edin.
+#### Get all items
 
-Lisans:
-Bu proje MIT Lisansı altında lisanslanmıştır.
+https://fakestoreapi.com/docs
+
+## Authors
+
+-LinkedIn [@rahmikse](https://www.linkedin.com/in/rahmi-k%C3%B6se/)
+
+## Features
+
+- Ürün kataloğu yönetimi
+- Gelişmiş filtreleme
+- Sepet yönetimi
+- Çoklu dil desteği (EN-TR)
