@@ -1,0 +1,220 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Katlanabilir Sırt Çantası No. 1, 15 İnçlik Dizüstü Bilgisayarlar İçin Uygun",
+      "description": "Her gün kullanım ve orman yürüyüşleri için mükemmel çantanız. Dizüstü bilgisayarınızı (en fazla 15 inç) yastıklı cep içine koyun, günlük eşyalarınızı saklayın.",
+      "price": 109.95,
+      "category": "Erkek Giyim",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "description": "Dar kesimli tarz, kontrastlı raglan uzun kollu, üç düğmeli henley yakalı, hafif ve yumuşak kumaş, nefes alabilir ve rahat giyim için.",
+      "price": 22.3,
+      "category": "Erkek Giyim",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "price": 55.99,
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "description": "Dar kesimli tarz, kontrastlı raglan uzun kollu, üç düğmeli henley yakalı, hafif ve yumuşak kumaş, nefes alabilir ve rahat giyim için.",
+      "price": 22.3,
+      "category": "Kadın Giyim",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Kadınlar İçin Efsaneler Naga Altın ve Gümüş Ejderha İstasyon Zincir Bilezik",
+      "description": "Efsanelerimiz koleksiyonundan, Naga, okyanusun incisini koruyan efsanevi su ejderhasından esinlenmiştir. Sevgi ve bollukla bahşedilmek için içe doğru takın veya koruma için dışa doğru takın.",
+      "price": 695,
+      "category": "Takı",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Katı Altın Minik Micropave ",
+      "description": "KATI ALTIN: Bu ürün katı 14K altından yapılmıştır ve her bir parça sertifikalandırma için metal saflığı ile dikkatlice markalanmıştır. Her bir parça 14K veya 585 damgalıdır ve bu kaliteyi ve zanaati garanti eder.",
+      "price": 168,
+      "category": "Takı",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Beyaz Altın Kaplama Prenses",
+      "description": "Klasik Yaratılmış Düğün Nişan Solitaire Elmas Söz Yüzüğü. Sevgilinizi Şımartmak için Hediye, Nişan, Düğün, Yıldönümü, Sevgililer Günü...",
+      "price": 9.99,
+      "category": "Takı",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Delinmiş Baykuş Gül Altın Kaplama Paslanmaz Çelik Çift",
+      "description": "Gül Altın Kaplama Çift Flared Tünel Fiş Küpeler. 316L Paslanmaz Çelikten Yapılmış",
+      "price": 10.99,
+      "category": "Takı",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "WD 2TB Elements Taşınabilir Harici Sabit Disk - USB 3.0 ",
+      "description": "USB 3.0 ve USB 2.0 Uyumluluğu Hızlı veri transferleri PC Performansını Geliştirin Yüksek Kapasite; Uyumlu NTFS biçimli Windows 10, Windows 8.1, Pencere...",
+      "price": 64,
+      "category": "Elektronik",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "SanDisk SSD PLUS 1TB Dahili SSD - SATA III 6 Gb/s",
+      "description": "Hızlı önyükleme, kapanma, uygulama yükleme ve yanıt için kolay yükseltme (5400 RPM SATA 2.5” sabit diske kıyasla. PCMark Vantage puanlarını kullanarak yayınlanan teknik özellikler ve dahili testler kullanılarak yapılmıştır.)",
+      "price": 109,
+      "category": "Elektronik",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Önbellek Performans Artışı SATA III 2.5",
+      "description": "Yüksek transfer hızları sunmak için 3D NAND flaş kullanılır. Dikkat çekici transfer hızları, daha hızlı önyükleme ve genel sistem performansının iyileştirilmesine olanak tanır. Gelişmiş SLC Önbellek Teknolojisi, performans artışı ve daha uzun ömür sağlar.",
+      "price": 109,
+      "category": "Elektronik",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+    },
+    {
+      "id": 12,
+      "title": "WD 4TB Oyun Sürücüsü PlayStation 4 ile Çalışır Taşınabilir Harici Sabit Disk",
+      "description": "PS4 oyun deneyiminizi genişletin, Her yerde oynayın Hızlı ve kolay kurulum, Yüksek kapasiteli, 3 yıl üretici sınırlı garanti",
+      "price": 114,
+      "category": "Elektronik",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Acer SB220Q bi 21.5 inç Full HD (1920 x 1080) IPS Ultra-İnce",
+      "description": "21. 5 inç Full HD (1920 x 1080) geniş ekran IPS ekran Ve Radeon FreeSync teknolojisi. VESA Montajı için uyumluluk yok",
+      "price": 599,
+      "category": "Elektronik",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Samsung 49 inç CHG90 144Hz Kavisli Oyun Monitörü ",
+      "description": "49 İNÇ SÜPER ULTRA GENİŞ 32:9 KAVİSLİ OYUN MONİTÖRÜ çift 27 inç ekran yan yana. KANTUM NOKTA (QLED) TEKNOLOJİSİ, HDR desteği ve fabrika kalibrasyonu çarpıcı derecede gerçekçi ve doğru renk ve kontrast sağlar",
+      "price": 999.99,
+      "category": "Elektronik",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Kadınlar 3'ü 1 Arada Snowboard Ceket Kış Montları",
+      "description": "Not: Ceketler normal boyutlardan daha küçüktür, lütfen Ürün Açıklaması'ndaki boyut tablomuza göre boyutunuzu seçin. Malzeme: Polyester; Çıkarılabilir Astar Kumaş: Sıcak Polar. Çıkarılabilir Fonksiyonel Astar: Cilt dostu, sıcak ve rahat.",
+      "price": 56.99,
+      "category": "Kadın Giyim",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Kilit ve Aşk Kadınlar İçin Çıkarılabilir Kapüşonlu Suni Deri Moto Bisikletçi Ceketi",
+      "description": "100% POLİÜRETAN(kabuk) 100% POLİESTER(astar) 75% POLİESTER 25% PAMUK (KAZAK) Tarz ve konfor için suni deri malzeme / Önde 2 cep, 2'si bir arada Kapüşonlu suni deri ceket Faux kürk astar",
+      "price": 29.95,
+      "category": "Kadın Giyim",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Yağmurluk Kadın Rüzgarlık Çizgili Tırmanma Yağmurluklar",
+      "description": "Hafif, seyahat veya günlük giyim için mükemmel---Uzun Kollu, Düz, Ayarlanabilir Kapüşonlu. Su Geçirmez Malzeme---Balıkçılık Açık Aktiviteler: Hafif yağmurluk, yürüyüş, tırmanma, seyahat, kamp, açık hava sporları, koşu, yürüyüş vb. için uygundur",
+      "price": 39.99,
+      "category": "Kadın Giyim",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+    },
+    {
+      "id": 18,
+      "title": "MBJ Kadınlar Düz Kısa Kollu Tekne Boyun V ",
+      "description": "95% Rayon 5% Spandex. Yumuşak ve rahat. Çalışma veya günlük kullanım için uygun çok yönlü klasik ve ofis ceket ceketi. İlkbahar ve yaz aylarında, sıcak aylarda giyilmek üzere tasarlanmıştır.",
+      "price": 9.85,
+      "category": "Kadın Giyim",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Opna Kadınlar Kısa Kollu Nemli",
+      "description": "100% katyonik polyester interlok, Makine Yıkama & Büyük Uygunluk için Ön Küçültme. Hafif, bol ve oldukça nefes alabilen nem emici kumaş ile nemin uzaklaştırılmasına yardımcı olur",
+      "price": 7.95,
+      "category": "Kadın Giyim",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+    },
+    {
+      "id": 20,
+      "title": "DANVOUY Kadın Tişört Rahat Pamuk Kısa",
+      "description": "95% Pamuk, 5% Spandex, Hafif, yumuşak ve nefes alabilir. Crew neck çizgisi ile rahat ve şık yaz tişörtü. Kadınlar için kısa kollu yaz tişörtü, kot pantolon veya şortunuzla eşleştirin, çaba sarfetmeden şık görünün",
+      "price": 12.99,
+      "category": "Kadın Giyim",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+    }
+  ],
+  "rating": "Değerlendirme",
+  "navbar": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "contacts": "İletişim",
+    "about": "Hakkında"
+  },
+  "register": {
+    "login": "Giriş",
+    "register": "Kayıt Ol",
+    "cart": "Sepet"
+  },
+  "home": {
+    "main-header": "YENİ SEZON",
+    "main-header2": "KONZEK ÜRÜNLERİ",
+    "section-header-check-all": "TÜM TRENDLERE GÖZ ATIN"
+  },
+  "latest-product": {
+    "header": "Son Ürünler",
+    "all": "Tümü",
+    "men-clothing": "Erkek Giyim",
+    "women-clothing": "Kadın Giyim",
+    "jewelery": "Takı",
+    "electronic": "Elektronik",
+    "dolar": "₺"
+  },
+  "btn": {
+    "buy-now": "Şimdi Satın Al",
+    "add-to-cart": "Sepete Ekle",
+    "go-to-cart": "Sepete Git"
+  },
+  "cart": {
+    "empty-header": "Sepetiniz boş",
+    "header": "Alışveriş Sepetiniz",
+    "message": " Seni mutlu edecek bir şeyler alalım :)",
+    "go-home": "Ana Sayfaya Dön",
+    "clear": "Temizle"
+  },
+  "contact": {
+    "contact-us": "Bize Ulaşın",
+    "email": "Bize ulaşmanızdan mutluluk duyarız! Bize e-posta ile ulaşabilirsiniz: ",
+    "call": "Ya da bize telefonla ulaşın: ",
+    "address": "Ofis Adresimiz: ",
+    "address-office": "İstanbul (Merkez) Zümrütevler Mah. Nazmi İlker Sokak, No:3 Maltepe, İstanbul"
+  },
+  "about": {
+    "header": "Hakkımızda",
+    "title": "KONZEK: Sizin İşinizin Çözüm Ortağı",
+    "section1": "Konzek olarak, işletmelerin dijital dönüşümünde güvenilir bir ortak olmayı hedefliyoruz. Deneyimli ekibimizle birlikte, müşterilerimizin ihtiyaçlarını anlamak ve onlara en uygun çözümleri sunmak için çalışıyoruz.",
+    "section2": "Müşteri memnuniyeti odaklı yaklaşımımızla, her projeye özel çözümler üretiyor ve işletmelerin dijital potansiyellerini maksimum düzeyde kullanmalarına yardımcı oluyoruz. Güvenilirlik, kalite ve yenilikçilik ilkeleri doğrultusunda, müşterilerimizin başarılarına katkıda bulunmak için kararlılıkla çalışıyoruz.",
+    "section3": "Siz de dijital dönüşüm sürecinizde güçlü bir partner arıyorsanız, Konzek olarak biz buradayız. Bize katılın ve işletmenizin büyümesine, gelişmesine ve rekabet avantajı elde etmesine yardımcı olalım."
+  },
+  "retry": {
+    "header": "Üzgünüz, bir hata oluştu.",
+    "message": "Lütfen daha sonra tekrar deneyin."
+  }
+}

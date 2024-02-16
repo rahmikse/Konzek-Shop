@@ -1,0 +1,220 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "price": 109.95,
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing.",
+      "price": 22.3,
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "price": 55.99,
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing.",
+      "price": 22.3,
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "price": 695,
+      "category": "jewelry",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micropave ",
+      "description": "SOLID GOLD: This product is made of solid 14K gold and each piece is carefully trademarked with the metal purity for certification. Each piece is stamped 14K or 585 and that guarantees the quality and craft.",
+      "price": 168,
+      "category": "jewelry",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "price": 9.99,
+      "category": "jewelry",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "price": 10.99,
+      "category": "jewelry",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Window...",
+      "price": 64,
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "description": "Easy upgrade for faster boot-up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive. Based on published specifications and internal benchmarking tests using PCMark Vantage scores.)",
+      "price": 109,
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan.",
+      "price": 109,
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+    },
+    {
+      "id": 12,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "price": 114,
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount",
+      "price": 599,
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor ",
+      "description": "49-INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27-inch screen side by side. QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast",
+      "price": 999.99,
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "description": "Note: The Jackets are smaller than normal sizes,please choose your size according to our size chart in the Product Description. Material: Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin-friendly, warm and comfortable.",
+      "price": 56.99,
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER) Faux leather material for style and comfort / 2 pockets of front, 2-For-1 Hooded faux leather jacket with Faux fur lining",
+      "price": 29.95,
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "description": "Lightweight perfet for trip or casual wear---Long Sleeve, Solid, Drawstring Hooded. Waterproof Material---Fishing Outdoor Activities: Lightweight rain jacket is suitable for hiking, climbing, traveling, camping, sport outdoor, running, walking etc",
+      "price": 39.99,
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+    },
+    {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "description": "95% Rayon 5% Spandex. Soft and comfortable. Versatile casual and office blazer jacket suitable for work or everyday. Designed to be wear even in hotter months in spring and summer, as well as year round.",
+      "price": 9.85,
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "description": "100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit. Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away",
+      "price": 7.95,
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+    },
+    {
+      "id": 20,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "description": "95%Cotton, 5%Spandex, Lightweight, soft and breathable. Casual t-shirt featuring with crew neck line, trendy and comfy. Short sleeve summer tee for women juniors, pair it with your jeans or shorts, look effortlessly chic",
+      "price": 12.99,
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+    }
+  ],
+  "rating": "Rating",
+  "navbar": {
+    "home": "Home",
+    "products": "Products",
+    "contacts": "Contact",
+    "about": "About"
+  },
+  "register": {
+    "login": "Login",
+    "register": "Register",
+    "cart": "Cart"
+  },
+  "home": {
+    "main-header": "NEW SEASON",
+    "main-header2": "KONZEK PRODUCTS",
+    "section-header-check-all": "CHECK OUT ALL THE TRENDS"
+  },
+  "latest-product": {
+    "header": "Latest Products",
+    "all": "All",
+    "men-clothing": "Men's Clothing",
+    "women-clothing": "Women's Clothing",
+    "jewelery": "Jewelery",
+    "electronic": "Electronic",
+    "dolar": "$"
+  },
+  "btn": {
+    "buy-now": "Buy Now",
+    "add-to-cart": "Add to Cart",
+    "go-to-cart": "Go to Cart"
+  },
+  "cart": {
+    "empty-header": "Your cart is empty",
+    "header": "Shopping Cart",
+    "message": "Let's buy somethings to make you happy :)",
+    "go-home": "Go Home",
+    "clear": "Clear Cart"
+  },
+  "contact": {
+    "contact-us": "Contact Us",
+    "email": "We'd love to hear from you! You can reach us via email at: ",
+    "call": "Or give us a call at: ",
+    "address": "Our office address: ",
+    "address-office": "İstanbul (Merkez) Zümrütevler Mah. Nazmi İlker Sokak, No:3 Maltepe, İstanbul"
+  },
+  "about": {
+    "header": "About Us",
+    "title": "KONZEK: Your Business Solution Partner",
+    "section1": "At Konzek, we aim to be a reliable partner in the digital transformation of businesses. Together with our experienced team, we work to understand our customers' needs and provide them with the most suitable solutions.",
+    "section2": "With a customer satisfaction-focused approach, we produce bespoke solutions for every project and help businesses maximize their digital potentials. Following the principles of reliability, quality, and innovation, we are committed to contributing to our customers' success.",
+    "section3": "If you are looking for a strong partner in your digital transformation journey, Konzek is here for you. Join us and let us help your business grow, develop, and gain a competitive advantage."
+  },
+  "retry": {
+    "header": "Sorry, an error occurred.",
+    "message": "Please try again later."
+  }
+}
