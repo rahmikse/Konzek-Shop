@@ -1,23 +1,27 @@
 import React from "react";
 import Products from "./Products";
+import { useTranslation } from "react-i18next";
 
 export default function Home() {
+  const [t] = useTranslation("global");
   return (
     <div className="hero">
       <div className="card bg-dark text-white border-0">
         <img
-          src="/backgroundImg.jpg"
-          className="card-img "
+          src="/bgImg.jpg"
+          className="card-image"
           alt="background"
-          height="550px"
+          height="650px"
         />
 
-        <div className="card-img-overlay d-flex flex-column justify-content-center">
-          <div className="container">
-            <h5 className="card-title display-3 fw-bolder mb-0">
-              NEW SEASON KONZEK PRODUCTS{" "}
+        <div className="card-img-overlay d-flex flex-column justify-content-center ">
+          <div className="container align-items-end d-flex flex-column  ">
+            <h5 className="card-title display-4 fw-bolder mb-0 text-secondary-emphasis">
+              {t("home.main-header")} <br /> {t("home.main-header2")}
             </h5>
-            <p className="card-text">CHECK OUT ALL THE TRENDS</p>
+            <p className="align-items-start card-text text-secondary-emphasis fw-bolder ">
+              {t("home.section-header-check-all")}
+            </p>
           </div>
         </div>
       </div>
