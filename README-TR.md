@@ -1,4 +1,4 @@
-# Konzek Shop
+# Konzek
 
 Konzek-Shop, React.js, Redux-toolkit ve react-i18next kullanılarak geliştirilmiş bir e-ticaret web sitesidir. Bu proje, online satış yapmak isteyen girişimciler ve küçük işletmeler için idealdir.
 
@@ -28,17 +28,17 @@ Projenin bağımlılıklarını kurmak için aşağıdaki komutu çalıştırın
   npm install
 ```
 
-## API Reference
+## API Referans
 
-#### Get all items
+#### Bütün Ürünler
 
 https://fakestoreapi.com/docs
 
-## Authors
+## Geliştirici
 
 -LinkedIn [@rahmikse](https://www.linkedin.com/in/rahmi-k%C3%B6se/)
 
-## Features
+## Özellikler
 
 - Ürün kataloğu yönetimi
 - Gelişmiş filtreleme
