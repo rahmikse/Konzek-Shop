@@ -1,7 +1,10 @@
 import { useState, useEffect } from "react";
 import Skeleton from "react-loading-skeleton";
 import { NavLink } from "react-router-dom";
+import { useTranslation } from "react-i18next";
+
 const Products = () => {
+  const [t] = useTranslation("global");
   const [data, setData] = useState([]);
   const [filter, setFilter] = useState(data);
   const [lodaing, setLoading] = useState(false);
@@ -53,31 +56,31 @@ const Products = () => {
             className="btn btn-outline-dark me-2"
             onClick={() => setFilter(data)}
           >
-            All
+            {t("latest-product.all")}
           </button>
           <button
             className="btn btn-outline-dark me-2"
             onClick={() => filterProduct("men's clothing")}
           >
-            Men's Clothing
+            {t("latest-product.men-clothing")}
           </button>
           <button
             className="btn btn-outline-dark me-2"
             onClick={() => filterProduct("women's clothing")}
           >
-            Women's Clothing
+            {t("latest-product.women-clothing")}
           </button>
           <button
             className="btn btn-outline-dark me-2"
             onClick={() => filterProduct("jewelery")}
           >
-            Jewelery
+            {t("latest-product.jewelery")}
           </button>
           <button
             className="btn btn-outline-dark me-2"
             onClick={() => filterProduct("electronics")}
           >
-            Electronic
+            {t("latest-product.electronic")}
           </button>
         </div>
         <div className="row">
@@ -97,14 +100,16 @@ const Products = () => {
                   />
                   <div className="card-body">
                     <h5 className="card-title">
-                      {product.title.substring(0, 12) + "..."}
+                      {product.title.substring(0, 12)}
                     </h5>
-                    <p className="card-text lead fw-bold">$ {product?.price}</p>
+                    <p className="card-text lead fw-bold">
+                      {t("latest-product.dolar")} {product?.price}
+                    </p>
                     <NavLink
                       to={`/products/${product?.id}`}
                       className="btn btn-outline-dark"
                     >
-                      Buy Now
+                      {t("btn.buy-now")}
                     </NavLink>
                   </div>
                 </div>
@@ -120,7 +125,9 @@ const Products = () => {
       <div className="container my-5 py-5">
         <div className="row">
           <div className="col-12 mb-5">
-            <h1 className="display-6 fw-bolder text-center">Latest Products</h1>
+            <h1 className="display-6 fw-bolder text-center">
+              {t("latest-product.header")}
+            </h1>
             <hr />
           </div>
         </div>
