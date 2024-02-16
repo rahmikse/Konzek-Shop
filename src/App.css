@@ -3,3 +3,25 @@
 .navbar-navigation-a {
   font-size: 18px;
 }
+.hero .container {
+  padding-right: 90px;
+}
+.navbar-collapse ul.navbar-nav a:hover {
+  color: #0069d9;
+  text-decoration: underline;
+}
+.navbar-nav .active {
+  color: #0069d9 !important;
+  text-decoration: none !important;
+}
+.totalPrice {
+  bottom: -4px;
+  right: 150px;
+}
+.contact-container,
+.about-container {
+  margin-top: 150px;
+}
+.konzek-about-png {
+  margin-top: 5rem !important;
+}
